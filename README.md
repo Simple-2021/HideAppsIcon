@@ -6,7 +6,7 @@
   
     桌面对隐藏应用完全失去用量跟踪
 ## Repository Status
-  : schedule
+  : 进度
 
     uncorrected
 ## Good Idea Library
