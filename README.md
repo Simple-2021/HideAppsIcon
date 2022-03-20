@@ -8,8 +8,8 @@
 ## Repository Status
   : schedule
 
-   uncorrected
+    uncorrected
 ## Good Idea Library
-  ： Privacy Space
+  ：Privacy Space
 
-   https://github.com/GeekTR/PrivacySpace.git
+    https://github.com/GeekTR/PrivacySpace.git
